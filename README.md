@@ -1,2 +1,2 @@
 # Graph-Serial
-Graficador en Matlab para el puerto serial Arduino
+Graficador en Matlab del puerto serial Arduino
